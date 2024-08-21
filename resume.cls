@@ -26,6 +26,8 @@
 \usepackage{array} % Required for boldface (\bf and \bfseries) tabular columns
 \usepackage{ifthen} % Required for ifthenelse statements
 
+\usepackage{graphicx}
+
 \usepackage{hyperref}
 \usepackage{xcolor}
 \hypersetup{
